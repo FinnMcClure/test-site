@@ -20,6 +20,10 @@ body {
 	text-decoration: none;
 }
 
+.link:hover {
+	color: darkred;
+}
+
 /*-------- Nav --------*/
 
 #top_menu {
