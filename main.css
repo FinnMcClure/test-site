@@ -2,19 +2,46 @@
 
 html {
 	font-family: sans-serif;
+}
+
+body {
+	padding-left: 20%;
+	padding-right: 20%;
+}
 
 
+.heading{
+	padding-top: .5%;
+}
 
+.link {
+	color: red;
+	font-style: normal;
+}
 
 /*-------- Nav --------*/
 
 #top_menu {
-	
+	background: white;
+	position:fixed;
+    top:0;
+    width:100%;
+    z-index:100;
 }
 
+#top_menu_button {
+	border: none;
+  	color: black;
+  	background-color: ;
+  	padding: .5% 1%;
+
+}
 
 /*-------- Landing --------*/
 
+#bird_img {
+	max-width: 100%;
+}
 
 
 
