@@ -70,7 +70,7 @@ body {
 
 /* Dropdown Button */
 .dropbtn {
-  background-color: #4CAF50;
+  background-color: grey;
   color: white;
   padding: 16px;
   font-size: 16px;
@@ -108,7 +108,7 @@ body {
 .dropdown:hover .dropdown-content {display: block;}
 
 /* Change the background color of the dropdown button when the dropdown content is shown */
-.dropdown:hover .dropbtn {background-color: #3e8e41;}
+.dropdown:hover .dropbtn {background-color: #bebebe;}
 
 
 /*-------- from webflow --------*/
